@@ -1,0 +1,15 @@
+.Searchbar{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    gap: 15px;
+}
+.Searchbar img{
+    height: 35px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+#searchbox{
+    font-size: 15px;
+    border: 1px solid black;
+}
